@@ -1,0 +1,18 @@
+{
+  "name": "koalament-bitlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.1.7",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.3",
+    "socket.io-client": "^2.3.0",
+    "tracer": "^1.0.2"
+  }
+}
